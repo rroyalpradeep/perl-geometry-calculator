@@ -4,6 +4,17 @@ A full‑stack **geometry calculator web app** built with **Perl (Mojolicious)**
 
 ---
 
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Perl Version](https://img.shields.io/badge/Perl-5.34-orange)](https://www.perl.org/)
+[![Last Commit](https://img.shields.io/github/last-commit/rroyalpradeep/perl-geometry-calculator)](https://github.com/<your-username>/perl-geometry-calculator/commits/main)
+[![Issues](https://img.shields.io/github/issues/rroyalpradeep/perl-geometry-calculator)](https://github.com/<your-username>/perl-geometry-calculator/issues)
+[![Forks](https://img.shields.io/github/forks/rroyalpradeep/perl-geometry-calculator)](https://github.com/<your-username>/perl-geometry-calculator/network/members)
+[![Stars](https://img.shields.io/github/stars/rroyalpradeep/perl-geometry-calculator)](https://github.com/<your-username>/perl-geometry-calculator/stargazers)
+
+> Full-stack Geometry Calculator with Perl backend, TailwindCSS frontend, and interactive 2D/3D shape calculations.
+
+
+
 ## 🚀 Features
 
 - 🧩 **Perl Modular Backend**
@@ -146,8 +157,9 @@ POST /api/volume/cube
 
 ---
 
-## 📸 Screenshots (suggested)
-_Add screenshots of your running app in both light and dark modes._
+## 📸 Screenshots
+<img width="1920" height="1200" alt="Screenshot from 2025-10-07 15-20-46" src="https://github.com/user-attachments/assets/66c3eb49-ef7d-491e-becf-9248ac3e0e5f" />
+
 
 ---
 
