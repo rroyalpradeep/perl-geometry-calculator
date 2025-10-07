@@ -1,0 +1,70 @@
+# ==============================================
+# Perl Geometry Calculator Project
+# Ignore unnecessary files & directories
+# ==============================================
+
+# Perl build and cache directories
+blib/
+_build/
+Build
+Build.bat
+Makefile
+Makefile.old
+pm_to_blib
+*.bs
+
+# Mojolicious temporary files
+tmp/
+temp/
+.mojo/
+morbo.pid
+*.bak
+
+# Perl local environment
+local/
+carton.lock
+cpanfile.snapshot
+
+# Log files
+*.log
+*.out
+*.err
+
+# OS / editor specific
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.tmp
+*.save
+
+# IDE and editor folders
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Node/npm related (if used for frontend)
+node_modules/
+package-lock.json
+npm-debug.log
+
+# Environment configs
+.env
+.env.*
+*.local
+
+# Backup or test files
+*~
+*.orig
+*.old
+
+# Generated documentation or outputs
+doc/
+docs/
+*.pdf
+*.md.html
+
+# ==============================================
+# END
+# ==============================================
